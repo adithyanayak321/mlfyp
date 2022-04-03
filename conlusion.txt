@@ -1,0 +1,23 @@
+CONCLUSION
+1.Convolutional neural network is a learning method for data analysis and predictions, now days it also 
+become very popular for image classification problems. Dog breed prediction of deep learning developed using 
+convolutional neural network is to predict the breed of hundred images in taking their images as input.
+
+2.Based on the literature review of five research papers we have proposed to use CNN method for our project by using bi-directional LSTM model.
+
+3.Data set for the implementation of this project has been collected that includes 120 breeds of dogs where each image having a unique id to distinguish them.
+
+4.The system architecture for building the android application has also been drafted that includes what feartured to be added like taking picture of dog,
+uploading picture etc.
+
+5.The future work includes the processing of dog images present in dataset for training the model and getting the appropriate accuracy.
+
+6.The android application here acts as UI element for interaction between dog images and model.
+
+7.Future work should further explore the potential ofconvolutional neural networks in dog breed prediction. 
+
+8.Neural networks take an enormous time to train, so its recommended urther exploration into neural networks for keypoint detection, specifically
+  by training networks with a different architecture and batch iterator to see what approaches might have greater success.
+
+9. Ultimately, neural networks are time consuming to train and iterate upon, which should be kept in consideration for future efforts; still, 
+   neural networks are formidable classifiers that will increase prediction accuracy over more traditional techniques.
